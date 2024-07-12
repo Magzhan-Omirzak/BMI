@@ -1,18 +1,27 @@
 1. **Clone the repository:**
 
    git clone https://github.com/Magzhan-Omirzak/BMI.git
+   
    cd BMI
 
-2. **Install the dependencies:**
+3. **Install the dependencies:**
    
   npm init -y
+  
   npm install express validator
 
 3. **NPM Packages Used**
+4. 
   express: Fast, unopinionated, minimalist web framework for Node.js
+
   validator: A library for string validation and sanitization
-4. **Dependencies**
+  
+5. **Dependencies**
+   
   Node.js
+  
   npm (Node Package Manager)
-5. **Port**
+  
+7. **Port**
+   
   The server runs on port 3000. If this port is already in use, you can change it in the root.js file.
